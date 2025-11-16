@@ -9,7 +9,7 @@
      "restart": "pm2 restart malvin-xd"
     },
   "dependencies": {
-   "@whiskeysockets/baileys": "github:RuizzOfficial/balleysruizz",          
+   "@whiskeysockets/baileys": "github:nstar-y/Bail",          
     "@adiwajshing/keyed-db": "^0.2.4",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
